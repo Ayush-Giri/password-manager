@@ -92,7 +92,7 @@ def find_password():
             messagebox.showinfo("Details",
                                 f'website = {website_to_searched}\nemail = {user_email},password = {user_password}')
         else:
-            messagebox.showinfo("Error", "sorry no such credentials exist")
+            messagebox.showinfo(title="Error", message=f"No details for {website} exists")
 
 
 # ---------------------------- UI SETUP ------------------------------- #
