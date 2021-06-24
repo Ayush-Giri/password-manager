@@ -1,6 +1,0 @@
-
-amazon | ayush@email.com | 12345678
-facebook | ayush@email.com | 123qwerty
-insta | ayush@email.com | udroiuer
-sdas | ayush@email.com | asdas
-netflix | ayush@email.com | netflix123
